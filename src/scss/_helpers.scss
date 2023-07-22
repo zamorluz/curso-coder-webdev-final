@@ -1,0 +1,12 @@
+.round-image {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    max-width: 100%;
+}
+.vertical-middle{
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
